@@ -34,8 +34,11 @@ Pandas, Numpy, Matplotlib, Geopandas, Seaborn
 # An explanation of what each file does: 
 
 Capstone.zip - complete zip file with data
+
 DarshanGandhi (1).html - html view of the notebook
+
 DarshanGandhi-5.ipynb - the complete notebook 
+
 Readme.md - read me file for better understanding
 
 # A summary of the results .
