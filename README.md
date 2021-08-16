@@ -10,8 +10,6 @@ The zomato exploratory data analysis is for the foodies to find the best restaur
 
 -Import the libraries
 
--Set options 
-
 -Read the data
 
 -Understand and Prepare the Data 
@@ -53,13 +51,7 @@ Seaborn = 0.10.1
 
 # An explanation of what each file does: 
 
-Capstone.zip - complete zip file with data
-
-DarshanGandhi (1).html - html view of the notebook
-
-DarshanGandhi-5.ipynb - the complete notebook 
-
-Readme.md - read me file for better understanding
+data_analysis_pipeline_notebook.ipynb -> contains the notebook for carrying out end-to-end data analysis
 
 # A summary of the results .
 
@@ -82,8 +74,6 @@ We have always tried to understand the basic steps one needs to take in order to
 
 [How to plot a heatmap using Seaborn?](
 https://seaborn.pydata.org/generated/seaborn.heatmap.html)
-
-
 
 
 # For more insights I have written a blog on the same. Here is the link : 
